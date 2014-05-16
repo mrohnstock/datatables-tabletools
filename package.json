@@ -1,0 +1,18 @@
+{
+    "name": "drmonty-datatables-tabletools",
+    "description": "TableTools Plugin for DataTables",
+    "homepage": "http://datatables.net",
+    "version": "2.2.1",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "main": "js/jquery.dataTables.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drmonty/datatables-tabletools.git"
+    },
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
+}

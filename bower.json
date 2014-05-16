@@ -1,0 +1,15 @@
+{
+    "name": "drmonty-datatables-tabletools",
+    "description": "TableTools Plugin for DataTables",
+    "homepage": "http://datatables.net",
+    "version": "2.2.1",
+    "dependencies": {
+        "jquery": ">=1.7"
+    },
+    "main": "js/dataTables.tableTools.js",
+    "ignore": [
+        "component.json",
+        "package.json",
+        "composer.json"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "name": "drmonty-datatables-tabletools",
+    "repo": "drmonty/datatables-tabletools",
+    "description": "TableTools Plugin for DataTables",
+    "version": "2.2.1",
+    "homepage": "http://www.datatables.net/",
+    "author": {
+        "name": "Allan Jardine",
+        "url": "http://sprymedia.co.uk"
+    },
+    "dependencies": {
+        "components/jquery": ">=1.7"
+    },
+    "main": "js/dataTables.tableTools.js",
+    "scripts": [
+        "js/dataTables.tableTools.js"
+    ],
+    "files": [
+        "js/dataTables.tableTools.min.js",
+        "css/dataTables.tableTools.min.css",
+        "images/background.png",
+        "images/collection.png",
+        "images/collection_hover.png",
+        "images/copy.png",
+        "images/copy_hover.png",
+        "images/csv.png",
+        "images/csv_hover.png",
+        "images/pdf.png",
+        "images/pdf_hover.png",
+        "images/print.png",
+        "images/print_hover.png",
+        "images/xls.png",
+        "images/xls_hover.png",
+        "swf/copy_csv_xls.swf",
+        "swf/copy_csv_xls_pdf.swf"
+    ]
+}
