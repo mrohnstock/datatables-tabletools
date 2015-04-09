@@ -2,7 +2,7 @@
     "name": "drmonty-datatables-tabletools",
     "repo": "drmonty/datatables-tabletools",
     "description": "TableTools Plugin for DataTables",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "homepage": "http://www.datatables.net/",
     "author": {
         "name": "Allan Jardine",
@@ -18,7 +18,6 @@
     "files": [
         "js/dataTables.tableTools.min.js",
         "css/dataTables.tableTools.min.css",
-        "images/background.png",
         "images/collection.png",
         "images/collection_hover.png",
         "images/copy.png",
